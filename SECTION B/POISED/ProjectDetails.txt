@@ -1,0 +1,8 @@
+Mall% asdf% asdf% asdf% 50.0% 50.0% 2022/05/05% true% Ted Mosby% asdf% asdf% asdf% adf% asdf% asdf% asdf% asdf% asdf% asdf% asdf% 1% 2022/06/06
+BettyWhite% type% addy% erf% 78.0% 8.0% 2020/12/12% false% archery% archeryy% archeryy% archeryyy% arhcyeryy% contrator% contractor% contractor% customer% coisntame% csnemem% asfdjfnsjf% 2% false
+FRANKOCEAN% blonde% Atlanta% erf345% 500.0% 50.0% 2020/12/12% true% FRANK% Frank 123% Frank gmial% Frank Atlanta% Gaga% Gaga tel% Gaga email% Gaga addy% Forest gump% Forst tel% Forst Email% Forst addy% 3% 2022/05/04
+ACHILLES% PYRE% TROY% ERF123% 500.0% 12.0% 4000/12/12% false% ODYSSYUS% Oddy num% Oddy emial% GOAT LAND% TELEMON% tele tel% tele addy% tele email% THESIS% Thesis tel% thesis addy% thessus addy% 4% false
+FRANKENSTEIN% HOVEL% COUNTRY% ERF234% 12.0% 12.0% 2022/12/12% true% FRANKENSTEIN% Frank tel% Frank email% Franl add% Simon % Simon tel% Simon add% Simon email% Creature% Creat tel% Creat email% Creat add% 5% 2022/10/10
+BRUNO MARS% MOON% SPACE% ERF34% 4345.0% 4345.0% 2023/12/12% false% MOONMAN% MM tel% MM email% MM addy% Space% S tel% S email% S addy% CUSTOMER% STAR tel% Star email% STAR addy% 6% false
+OREOS% MILK% VANILLA% erf234% 5000.0% 500.0% 2024/12/12% false% asf% wer% wer% wer% wer% wer% wer% wer% wer% wer% wer% wer% 7% false
+MAMA% JAMA% MAMA% JAMA% 123.0% 12.0% 2024/12/12% false% FGHJ% fghj% gfhj% gfhj% ghj% gfhj% fghj% fghj% fghj% fghj% fghj% fghj% 8% N
