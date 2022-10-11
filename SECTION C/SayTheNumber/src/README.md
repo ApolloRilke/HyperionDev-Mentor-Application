@@ -1,4 +1,5 @@
 #HOW TO RUN JAVA CODE AND JUNIT TEST SCRIPT IN THE TERMINAL
+
 Unless stated, the same procedure is followed on Linux, MacOS, and Windows OS.
 Ensure that the latest JDK is installed: at least JDK 17
 The junit-platform-console-standalone-1.9.1.jar jar file will be required and can be downloaded from 
