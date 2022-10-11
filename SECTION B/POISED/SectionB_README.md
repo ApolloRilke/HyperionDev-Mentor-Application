@@ -1,5 +1,8 @@
 # A PROJECT MANAGEMENT SYSTEM IN JAVA
 
+Files for this task include: Poised.java, Project.java, Person.java, Details.java, ProjectInformation.java, 
+SearchAndUpdate.java, TotalProject.java.
+
 This Java app will allow a an architecture firm to manage their projects.
 
 A user will be able to enter and edit project details relating to the project, the arcitect, contractor, 
