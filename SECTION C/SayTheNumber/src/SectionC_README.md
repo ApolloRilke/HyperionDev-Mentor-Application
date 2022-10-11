@@ -6,7 +6,8 @@ The junit-platform-console-standalone-1.9.1.jar jar file will be required and ca
 Maven Central repository)
 
 STEP 1: Download the java files to a easily accessible directory
-From the terminal, using the "cd" command to change directory
+Download the javafiles SayTheNumber.java and SayTheNumberTest.java
+From the terminal, using the "cd" command to change that directory
 Example: $ cd C:\Users\downloads\files
 
 STEP 2: COMPILE THE JAVA CODE
